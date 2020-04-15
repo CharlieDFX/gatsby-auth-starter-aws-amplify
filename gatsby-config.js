@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Covid-19 Superación Financiera`,
     description: `Kick off the COVID-19 (coronavirus) financial blues with our tools to get you financial assistance and a new job.`,
-    author: 'Charlie Rosado`,
+    author: `Charlie Rosado`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
