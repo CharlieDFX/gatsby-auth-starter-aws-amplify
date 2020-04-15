@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Cobid-19 Superación Financiera`,
+    title: `Covid-19 Superación Financiera`,
     description: `Kick off the COVID-19 (coronavirus) financial blues with our tools to get you financial assistance and a new job.`,
-    author: `@CharlieDFX`,
+    siteUrl: `https://adc-miami.com.com`,
+    author: 'Charlie Rosado`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -18,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Covid-19 Superación Financiera`,
-        short_name: `COVID-19-Ayuda`,
+        name: `Guia de Covid-19 Superación Financiera`,
+        short_name: `COVID-19-Guia`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
